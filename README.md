@@ -12,8 +12,9 @@ Let me put it straight up to you. I like knowing things. So I started Coding. An
 ![living](https://img.shields.io/badge/living-Ranchi-3c9)
 
 <p align="left"> <a href="https://twitter.com/shivamj23174085" target="blank"><img src="https://img.shields.io/twitter/follow/shivamj23174085?logo=twitter&style=for-the-badge" alt="shivamj23174085" /></a> </p>
-
-![coding-freak](https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-85a5-ab6ab54aa4d9.gif)
+<!-- 
+https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-85a5-ab6ab54aa4d9.gif -->
+<img width="56%" align="center" alt="Coder" src="https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-85a5-ab6ab54aa4d9.gif" />
 
 - 🌱 I’m currently learning **each and every thing which possibly I can**
 
