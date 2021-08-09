@@ -5,9 +5,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam-jha2712" alt="shivam-jha2712" /></a> </p> -->
 
-![age](https://img.shields.io/badge/age-19-brightgreen-center)
-![focus](https://img.shields.io/badge/focus-Kali Linux-brightgreen-center)
-![living](https://img.shields.io/badge/living-Ranchi-3c9-center)
+![age](https://img.shields.io/badge/age-19-brightgreen)
+![focus](https://img.shields.io/badge/focus-Kali Linux-brightgreen)
+![living](https://img.shields.io/badge/living-Ranchi-3c9)
 
 <p align="left"> <a href="https://twitter.com/shivamj23174085" target="blank"><img src="https://img.shields.io/twitter/follow/shivamj23174085?logo=twitter&style=for-the-badge" alt="shivamj23174085" /></a> </p>
 
