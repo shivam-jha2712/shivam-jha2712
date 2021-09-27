@@ -1,5 +1,5 @@
-![3](https://user-images.githubusercontent.com/71783722/134857791-e36bd4cb-30f2-43c9-a965-e876c54f6617.png) 
-
+<!-- ![3](https://user-images.githubusercontent.com/71783722/134857791-e36bd4cb-30f2-43c9-a965-e876c54f6617.png)  -->
+<img src="https://user-images.githubusercontent.com/71783722/134857791-e36bd4cb-30f2-43c9-a965-e876c54f6617.png" width="714" height="250" />
 <!-- <div align= "center"></div> -->
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! My name is Shivam</h1>
 <h3 align="center">and I am growing and learning every day to be better</h3>
