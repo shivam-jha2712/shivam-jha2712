@@ -1,4 +1,4 @@
-<div align= "center"><img src="https://user-images.githubusercontent.com/71783722/134857791-e36bd4cb-30f2-43c9-a965-e876c54f6617.png" width="1120" height="335" />
+<div align= "center"><img src="https://user-images.githubusercontent.com/71783722/134857791-e36bd4cb-30f2-43c9-a965-e876c54f6617.png" width="1120" height="300" />
 </div>
 
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! My name is Shivam</h1>
@@ -21,7 +21,9 @@ https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-
 <div align="center">
 <img width="680px" height="480px" alt="Coder" src="https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-85a5-ab6ab54aa4d9.gif" />
 </div>
-- 🌱 I’m currently learning **each and every thing which possibly I can**
+- 🌱 I’m currently learning JS..... (npm run dev.learn JS quick()==true)
+
+- 👯 I’m looking to collaborate on projects and Basic Web Dev 
 
 - 📝 I regularly write articles on [https://myideaspagedup.wordpress.com/](https://myideaspagedup.wordpress.com/)
 
