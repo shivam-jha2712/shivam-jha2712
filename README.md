@@ -48,7 +48,10 @@ https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-jha2712&show_icons=true&locale=en&layout=compact" alt="shivam-jha2712" /></p> -->
 ### ⚡ 🏆 Github Status
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-jha2712&show_icons=true&locale=en" alt="shivam-jha2712" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-jha2712&show_icons=true&locale=en" alt="shivam-jha2712" /></p> -->
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=shivam-jha2712&show_icons=true&theme=react&count_private=true" alt="Shivam" />     
+</div>
 
 <br>
 
