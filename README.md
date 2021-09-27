@@ -10,6 +10,7 @@ Let me put it straight up to you. I like knowing things. So I started Coding. An
 ![age](https://img.shields.io/badge/age-19-brightgreen)
 ![focus](https://img.shields.io/badge/focus-KaliLinux-brightgreen)
 ![living](https://img.shields.io/badge/living-Ranchi-3c9)
+<img src="https://komarev.com/ghpvc/?username=shivam-jha2712&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-jha2712" />
 
 <p align="left"> <a href="https://twitter.com/shivamj23174085" target="blank"><img src="https://img.shields.io/twitter/follow/shivamj23174085?logo=twitter&style=for-the-badge" alt="shivamj23174085" /></a> </p>
 <!-- 
