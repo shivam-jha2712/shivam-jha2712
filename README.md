@@ -1,4 +1,4 @@
-<div align= "center"><img src="https://user-images.githubusercontent.com/71783722/134857791-e36bd4cb-30f2-43c9-a965-e876c54f6617.png" width="1120" height="380" />
+<div align= "center"><img src="https://user-images.githubusercontent.com/71783722/134857791-e36bd4cb-30f2-43c9-a965-e876c54f6617.png" width="1920" height="385" />
 </div>
 
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! My name is Shivam</h1>
