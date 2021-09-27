@@ -1,4 +1,4 @@
-![3](https://user-images.githubusercontent.com/71783722/134857791-e36bd4cb-30f2-43c9-a965-e876c54f6617.png)
+<div align= "center" >![3](https://user-images.githubusercontent.com/71783722/134857791-e36bd4cb-30f2-43c9-a965-e876c54f6617.png) </div>
 
 
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! My name is Shivam</h1>
