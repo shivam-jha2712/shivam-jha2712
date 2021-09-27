@@ -14,8 +14,9 @@ Let me put it straight up to you. I like knowing things. So I started Coding. An
 <p align="left"> <a href="https://twitter.com/shivamj23174085" target="blank"><img src="https://img.shields.io/twitter/follow/shivamj23174085?logo=twitter&style=for-the-badge" alt="shivamj23174085" /></a> </p>
 <!-- 
 https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-85a5-ab6ab54aa4d9.gif -->
-<center><img width="680px" height="480px" align="center" alt="Coder" src="https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-85a5-ab6ab54aa4d9.gif" /></center>
-
+<div align="center">
+<img width="680px" height="480px" alt="Coder" src="https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-85a5-ab6ab54aa4d9.gif" />
+</div>
 - 🌱 I’m currently learning **each and every thing which possibly I can**
 
 - 📝 I regularly write articles on [https://myideaspagedup.wordpress.com/](https://myideaspagedup.wordpress.com/)
