@@ -1,7 +1,7 @@
 <div align= "center"><img src="https://user-images.githubusercontent.com/71783722/134857791-e36bd4cb-30f2-43c9-a965-e876c54f6617.png" width="1120" height="293" />
 </div>
 
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="3px"> ! My name is Shivam</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! My name is Shivam</h1>
 <h3 align="center">and I am growing and learning every day to be better</h3>
 
 Let me put it straight up to you. I like knowing things. So I started Coding. And I am on my way to be better every day 🎯.
