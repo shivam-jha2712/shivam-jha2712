@@ -25,13 +25,11 @@ https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-
 
 - 👯 I’m looking to collaborate on projects and Basic Web Dev 
 
-- 📝 I regularly write articles on [https://myideaspagedup.wordpress.com/](https://myideaspagedup.wordpress.com/)
-
 - 📫 How to reach me **shivam.jha.2712@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RhIV19YrB3TTUZkEQp-5UifeL0siOIcB/view?usp=sharing](https://drive.google.com/file/d/1RhIV19YrB3TTUZkEQp-5UifeL0siOIcB/view?usp=sharing)
 
-- ⚡ Fun fact **I can make you smile with my work**
+- ⚡ Fun fact **I like deadlines**
 
 
 ### ⚡ Connect With Me
