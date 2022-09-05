@@ -10,17 +10,6 @@ Let me put it straight up to you. I like knowing things. So I started Coding. An
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam-jha2712" alt="shivam-jha2712" /></a> </p> -->
 
-<!-- <style>
- .codechef {
-    background-color: #f00;
-}
-
-.codechef a{ 
-    color: #f00;
-    -webkit-filter: invert(100%);
-    filter: invert(100%);
-}
- </style> -->
 
 ![age](https://img.shields.io/badge/age-19-brightgreen)
 ![focus](https://img.shields.io/badge/focus-Frontend-brightgreen)
@@ -51,10 +40,7 @@ https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-
 <a href="https://linkedin.com/in/shivam-jha-b94528190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-jha-b94528190" height="30" width="40" /></a>
 <a href="https://instagram.com/_jha_ji_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jha_ji_27" height="30" width="40" /></a>
 <!-- <a href="https://dribbble.com/shivam jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shivam jha" height="30" width="40" /></a> -->
- 
-<a href="https://www.codechef.com/users/shivam2712" target="blank" style= "color: #f00; -webkit-filter: invert(100%);
-    filter: invert(100%);"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivam2712" height="30" width="40"  /></a>
- 
+<a href="https://www.codechef.com/users/shivam2712" target="blank" style= "color: #f00; -webkit-filter: invert(100%); filter: invert(100%);"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivam2712" height="30" width="40"  /></a>
 <a href="https://www.hackerrank.com/shivam_jha_2712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivam_jha_2712" height="30" width="40" /></a>
 </p>
 
