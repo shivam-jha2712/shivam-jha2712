@@ -66,3 +66,6 @@ https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-jha2712&show_icons=true&locale=en" alt="shivam-jha2712" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-jha2712&" alt="shivam-jha2712" /></p> -->
+
+#### Badges 
+[![@shivamjha2712's Holopin board](https://holopin.io/api/user/board?user=shivamjha2712)](https://holopin.io/@shivamjha2712)
