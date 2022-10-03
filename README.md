@@ -31,9 +31,11 @@ https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer%20from%20India;2+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer%20from%20India;Fresher%20with%20lots%20of%20learning%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
   </a>
 </p>
+
+<!-- 2+%2B%20years%20of%20working%20experience; -->
 
 - 🌱 I’m currently learning JS..... (npm run dev.learn JS quick()==true)
 
