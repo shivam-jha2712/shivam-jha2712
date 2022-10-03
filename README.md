@@ -19,9 +19,22 @@ Let me put it straight up to you. I like knowing things. So I started Coding. An
 <p align="left"> <a href="https://twitter.com/shivamj23174085" target="blank"><img src="https://img.shields.io/twitter/follow/shivamj23174085?logo=twitter&style=for-the-badge" alt="shivamj23174085" /></a> </p>
 <!-- 
 https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-85a5-ab6ab54aa4d9.gif -->
+<!-- 
 <div align="center">
 <img width="680px" height="480px" alt="Coder" src="https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-85a5-ab6ab54aa4d9.gif" />
 </div>
+-->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer%20from%20India;Fresher%20with%20  0%20years%20of%20working%20;Being%20passionate%20and%20creative&center=true&width=380&height=45">
+  </a>
+</p>
+
 - 🌱 I’m currently learning JS..... (npm run dev.learn JS quick()==true)
 
 - 👯 I’m looking to collaborate on projects and Basic Web Dev 
