@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/71783722/128679602-cd976d98-72b9-4755-
 
 - 📫 How to reach me **shivam.jha.2712@gmail.com**
 
-- 📄 Know about my experiences [Proof of Work]((https://linktr.ee/shivamjha2712))
+- 📄 Know about my experiences [Proof of Work](https://linktr.ee/shivamjha2712)
 
 - ⚡ Fun fact **I like deadlines**
 
