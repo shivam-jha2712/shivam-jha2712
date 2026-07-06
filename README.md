@@ -12,7 +12,7 @@ Let me put it straight up to you. I like knowing things. So I started Coding. An
 
 
 ![age](https://img.shields.io/badge/age-25-brightgreen)
-![focus](https://img.shields.io/badge/focus-Java-Full-Stack-brightgreen)
+![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Banglore-3c9)
 <img src="https://komarev.com/ghpvc/?username=shivam-jha2712&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-jha2712" />
 
