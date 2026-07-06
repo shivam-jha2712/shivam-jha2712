@@ -11,9 +11,9 @@ Let me put it straight up to you. I like knowing things. So I started Coding. An
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam-jha2712" alt="shivam-jha2712" /></a> </p> -->
 
 
-![age](https://img.shields.io/badge/age-23-brightgreen)
-![focus](https://img.shields.io/badge/focus-Frontend-brightgreen)
-![living](https://img.shields.io/badge/living-Kolkata-3c9)
+![age](https://img.shields.io/badge/age-25-brightgreen)
+![focus](https://img.shields.io/badge/focus-Java-Full-Stack-brightgreen)
+![living](https://img.shields.io/badge/living-Banglore-3c9)
 <img src="https://komarev.com/ghpvc/?username=shivam-jha2712&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-jha2712" />
 
 <p align="left"> <a href="https://twitter.com/shivamj23174085" target="blank"><img src="https://img.shields.io/twitter/follow/shivamj23174085?logo=twitter&style=for-the-badge" alt="shivamj23174085" /></a> </p>
